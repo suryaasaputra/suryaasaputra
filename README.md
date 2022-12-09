@@ -1,6 +1,6 @@
 ### Hi! 👋 I'm Surya.
 
-A final year college students majoring in Computer Science who loves to create and share projects about website and cloud ! I've learn JavaScript & PHP and make it as the main language in creating a project.
+A final year college students majoring in Computer Science who loves to create and share projects about website and cloud ! I've learn JavaScript ,PHP & GO and make it as the main language in creating a project.
 
 I'm currently active in contributing as student at <a href="https://github.com/dicodingacademy">@dicodingacademy</a> to learn courses in Front-End Web and Back-End Service.
 
@@ -14,7 +14,7 @@ I'm currently active in contributing as student at <a href="https://github.com/d
   <a href="#"><img align="left" alt="JavaScript" title="JavaScript" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" /></a>
   <a href="https://nodejs.org/"><img align="left" alt="NodeJS" title="NodeJS" width="21px" src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png" /></a>
   <a href="https://laravel.com/"><img align="left" alt="Laravel" title="Laravel" width="21px" src="https://cdn.worldvectorlogo.com/logos/laravel-2.svg" /></a>
-  <a href="https://go.dev"><img align="left" alt="Go" title="Go" width="21px" src="https://cdn.worldvectorlogo.com/logos/go-6.svg" /></a>
+  <a href="https://go.dev"><img align="left" alt="Go" title="Go" width="21px" src="https://cdn.worldvectorlogo.com/logos/go-8.svg" /></a>
 
   <br>
   <br>
