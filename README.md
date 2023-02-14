@@ -2,13 +2,12 @@
 
 A final year college students majoring in Computer Science who loves to create and share projects about website and cloud ! I've learn JavaScript ,PHP & GO and make it as the main language in creating a project.
 
-I'm currently active in contributing as student at <a href="https://github.com/dicodingacademy">@dicodingacademy</a> to learn courses in Front-End Web and Back-End Service.
+
 
 - 🔭 I’m currently studying at <a href="https://unama.ac.id/">Universitas Dinamika Bangsa</a>
 - 🌱 I’m currently learning about cloud technology for back-end apps
 - 💬 Feel free to ask me to make a collaboration projects
 - 📫 How to reach me: suryaaasaputra.s@gmail.com
-- ⚡ Fun fact: I watch movies a lot like a lots.
 
 ### Tech Stack
   <a href="#"><img align="left" alt="JavaScript" title="JavaScript" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" /></a>
